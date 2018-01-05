@@ -12,7 +12,7 @@ asynchronously. So far it ships with the following adapters:
 
 You install the gem in your rails app by adding it your +Gemfile+:
 
-    gem "sms_gateway", '0.3.0', github:'hilmysyarif/sms_gateway', branch: 'master'
+    gem "sms_gateway", '0.3.0', github:'rietzche/sms_gateway', branch: 'master'
 
 
 After that you run the <tt>bundle install</tt> task and then invoke the
